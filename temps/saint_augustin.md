@@ -1,3 +1,6 @@
+```
+https://lacavernedeplaton.fr/textes/d%C3%A9tails.php?id=7
+```
 ### EXERCICE : Distinguer deux sens de la notion à partir d'exemples
 
 1. Quels sont les points communs entre le temps mesuré par une horloge et le temps ressenti lors d'une longue attente ?
