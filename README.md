@@ -6,3 +6,11 @@
 Des exercices de philosophie sous forme de textes à trous invitant à l'échange en classe.
 
 → Chaque fiche d'exercice dure entre 15 et 20m.
+
+# Structure des exercices 
+
+- Assimiler une thèse
+- Mobiliser des exemples
+- Aller jusqu'au concept
+- Reconstruire un raisonnement
+- Anticiper les objections
