@@ -1,0 +1,7 @@
+Aristote_20240119165054.md
+Bentham_20240119170044.md
+Kant_20240119170821.md
+Leibniz_2.md
+Pascal_20240119170651.md
+README.md
+Sophocle_20240119163950.md

@@ -1,0 +1,6 @@
+Arendt_20240119170545.md
+Cournot_20240119163409.md
+Jaspers_20240119164501.md
+Popper_2.md
+README.md
+Rousseau_20240119165603.md

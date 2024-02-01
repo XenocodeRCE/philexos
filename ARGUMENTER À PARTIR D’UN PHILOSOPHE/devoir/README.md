@@ -1,0 +1,8 @@
+Durkheim_20240119164121.md
+Kant_20240119165751.md
+Milgram_20240119164822.md
+README.md
+Ricœur_20240119163743.md
+Rousseau_2.md
+Rousseau_20240119165427.md
+Smith_2.md

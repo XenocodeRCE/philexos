@@ -1,0 +1,13 @@
+Averroès_2.md
+Lévinas_20240119165934.md
+Lévinas_20240119170926.md
+Lévinas_20240119234744.md
+Lucrèce_20240119234951.md
+Marx_2.md
+Nietzsche_2.md
+Platon_20240119170623.md
+README.md
+Shaftesbury_20240119164714.md
+Spinoza_20240119165130.md
+Spinoza_20240119234647.md
+Spinoza_20240120003121.md

@@ -1,0 +1,13 @@
+Bacon_20240119165851.md
+Condillac_20240119235006.md
+Cournot_20240120003054.md
+Hegel_20240119165225.md
+Leibniz_20240119165823.md
+Leroi-Gourhan_20240119234858.md
+Locke_20240119171209.md
+Merleau-Ponty_20240119164856.md
+Montaigne_20240119163511.md
+README.md
+Ricœur_20240120003107.md
+Saussure_2.md
+Wittgenstein_2.md
