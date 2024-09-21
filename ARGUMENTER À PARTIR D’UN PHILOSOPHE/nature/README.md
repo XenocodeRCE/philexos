@@ -1,7 +1,0 @@
-Condillac_20240119163710.md
-Descola_20240119164309.md
-Descola_20240119164421.md
-Diderot_2.md
-Diderot_20240119164746.md
-Fontenelle_20240119171308.md
-README.md

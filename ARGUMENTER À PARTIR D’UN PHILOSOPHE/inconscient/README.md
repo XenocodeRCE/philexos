@@ -1,5 +1,0 @@
-Erickson_20240119170306.md
-Freud_20240119165532.md
-README.md
-Schopenhauer_20240119234801.md
-Simondon_20240119163559.md

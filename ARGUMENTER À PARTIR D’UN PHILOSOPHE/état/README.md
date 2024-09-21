@@ -1,6 +1,0 @@
-Arendt_20240119164927.md
-Hobbes_2.md
-Hume.md
-Mill_20240119235036.md
-README.md
-Spinoza_20240119164615.md
